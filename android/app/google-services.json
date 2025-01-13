@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259826559056",
+    "project_id": "mail-api-test-400203",
+    "storage_bucket": "mail-api-test-400203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259826559056:android:7ffadc5b35c9e36b2b4955",
+        "android_client_info": {
+          "package_name": "com.example.mail_api_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259826559056-u2i37p12va661lr2mespdueidevliob5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mail_api_test",
+            "certificate_hash": "16d193e8232b6519e7f1d495dbc1d5e1da844c48"
+          }
+        },
+        {
+          "client_id": "259826559056-qf26hl2a1kh54dfnf02r98domgvq0428.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6w-V_g4vihfzrfoaZ8PF7tDVYjsSOKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259826559056-qf26hl2a1kh54dfnf02r98domgvq0428.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
